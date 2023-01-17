@@ -3,7 +3,7 @@
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavinjey&show_icons=true&locale=en&layout=compact" alt="kavinjey" /></p>
+<p> Check out my website <a href="https://kavinjey.xyz">here</a> </p>
 
 <!--
 **KavinJey/KavinJey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
