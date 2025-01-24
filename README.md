@@ -3,7 +3,7 @@
 
 <br/>
 
-<p> Check out my website <a href="https://kavinjey.xyz">here</a> </p>
+<p> Check out my website <a href="https://kavinjey.cc">here</a> </p>
 
 <!--
 **KavinJey/KavinJey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
